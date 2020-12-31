@@ -1,1 +1,1 @@
-# multiplayer-chess-game
+# multiplayer-chess-game-backend
